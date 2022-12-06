@@ -1,0 +1,24 @@
+# Blender MTL File: 'ostanovka.blend'
+# Material Count: 2
+
+newmtl Material.002
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.505882 0.505882 0.505882
+Ke 0.000000 0.000000 0.000000
+Ni 1.650000
+d 1.000000
+illum 2
+map_Kd stop/door_tp_1_spec.jpg
+
+newmtl Material.003
+Ns 398.216809
+Ka 1.000000 1.000000 1.000000
+Kd 0.167936 0.029280 0.014214
+Ks 0.142857 0.142857 0.142857
+Ke 0.000000 0.000000 0.000000
+Ni 8.850002
+d 1.000000
+illum 3
+map_Kd stop/door_tp_1_spec.jpg
